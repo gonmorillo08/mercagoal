@@ -1,0 +1,12 @@
+# Copia CSV de la tabla limpia (91 MB); la app usa el .parquet
+datos/tabla_valores_mercado_limpia.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor/OS
+.DS_Store
+.claude/

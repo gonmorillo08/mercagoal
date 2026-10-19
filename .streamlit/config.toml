@@ -1,0 +1,22 @@
+# Tema claro del portal de usuario, con los colores del logotipo de Mercagoal
+# (texto verde muy oscuro, acento verde).
+[theme]
+base = "light"
+primaryColor = "#1A7F4B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EEF1EE"
+textColor = "#10231C"
+linkColor = "#1A7F4B"
+borderColor = "#D5DDD8"
+font = "Outfit:https://fonts.googleapis.com/css2?family=Outfit:wght@300..700&display=swap, sans-serif"
+baseRadius = "10px"
+
+[theme.sidebar]
+backgroundColor = "#EEF1EE"
+secondaryBackgroundColor = "#FFFFFF"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+runOnSave = true
